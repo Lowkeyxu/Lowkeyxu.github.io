@@ -1,9 +1,17 @@
 ---
-title: about
+title: 关于我们
 date: 2017-11-29 14:12:54
 type: about
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86   
-    src="http://music.163.com/song?id=439915614&userid=80626820">  
+姓名：xuwc
+
+年龄：24
+
+所在地：上海-浦东新区
+
+邮箱：xwc120901@gmail.com
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 
+	src="http://music.163.com/outchain/player?type=2&id=439915614&auto=1&height=66">
 </iframe>
